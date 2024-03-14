@@ -25,8 +25,8 @@ function Header() {
           platform provides a user-friendly interface to access bowler details.
           Discover bowler names, team affiliations, addresses, and contact
           information. Dive into the world of bowling with ease, focusing on
-          Marlins and Sharks team members. Get ready to experience bowling data
-          like never before!
+          Marlins and Sharks team members. Experience bowling data like never
+          before!
         </p>
         <br />
       </div>
